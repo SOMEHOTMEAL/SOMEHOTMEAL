@@ -3,6 +3,8 @@
 ## Links
 
 <span style="color:red">text</span>
+[![Steam](https://img.shields.io/badge/Steam-Profile-1b2838?logo=steam)](https://steamcommunity.com/id/YOURNAME)
+![Steam](https://img.shields.io/badge/Steam-Profile-blue)
 
 [Steam](https://steamcommunity.com/profiles/76561198984182210/)
 
