@@ -31,7 +31,7 @@ Yeah IDK what to put here SMH my Head.
 
 ## Archived Projects
 
-1. ​ My own LLM, never made it beyond V2 (Retrieval-Based Chatbot).
+1. ​ My own LLM, Canto, never made it beyond V2 (Retrieval-Based Chatbot).
 
 2. ​ 50+ Python Scripts, not even categorized or hidden.
 
