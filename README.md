@@ -22,11 +22,11 @@ Yeah IDK what to put here SMH my Head.
 
 ## Current Projects
 
- ​​  ​- ​ Expanding my Chrome extension HQ.
+ ​​  ​- ​ [Expanding my Chrome extension HQ.](https://github.com/SOMEHOTMEAL/ChromeEXT)
 
- ​​  ​- ​ Continuing my HF RP model guide.
+ ​​  ​- ​ [Continuing my HF RP model guide.](https://huggingface.co/collections/SOMEHOTMEAL/rp-models)
 
- ​​  ​- ​ Continuing my HF Coding model guide.
+ ​​  ​- ​ [Continuing my HF Coding model guide.](https://huggingface.co/collections/SOMEHOTMEAL/coding-models)
 
 
 ## Archived Projects
