@@ -6,7 +6,7 @@
 [![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?logo=huggingface&logoColor=white)](https://huggingface.co/SOMEHOTMEAL)
 <!--[HuggingFace](https://huggingface.co/SOMEHOTMEAL)-->
 
-[![Github](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/SOMEHOTMEAL)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/SOMEHOTMEAL)
 <!--[Github](https://github.com/SOMEHOTMEAL)-->
 
 [![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)](https://discord.com/users/857264933448450098)
