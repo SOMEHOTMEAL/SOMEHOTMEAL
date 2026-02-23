@@ -1,4 +1,33 @@
-## Hi there 👋
+<!--## Hi there 👋-->
+
+## Links
+
+(Steam)[https://steamcommunity.com/profiles/76561198984182210/]
+(HuggingFace)[https://huggingface.co/SOMEHOTMEAL]
+(Github)[https://github.com/SOMEHOTMEAL]
+(Dicord)[https://discord.com/users/857264933448450098]
+
+## About Me
+
+## Current Projects
+
+## Archived Projects
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!--
 **SOMEHOTMEAL/SOMEHOTMEAL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
