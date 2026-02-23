@@ -22,18 +22,18 @@ Yeah IDK what to put here SMH my Head.
 
 ## Current Projects
 
-​- ​ Expanding my Chrome extension HQ.
+ ​​  ​- ​ Expanding my Chrome extension HQ.
 
-​- ​ Continuing my HF RP model guide.
+ ​​  ​- ​ Continuing my HF RP model guide.
 
-​- ​ Continuing my HF Coding model guide.
+ ​​  ​- ​ Continuing my HF Coding model guide.
 
 
 ## Archived Projects
 
-​- ​ My own LLM, Canto, never made it beyond V2 (Retrieval-Based Chatbot).
+ ​​  ​- ​ My own LLM, Canto, never made it beyond V2 (Retrieval-Based Chatbot).
 
-​- ​ 50+ Python Scripts, not even categorized or hidden.
+ ​​  ​- ​ 50+ Python Scripts, not even categorized or hidden.
 
 
 
