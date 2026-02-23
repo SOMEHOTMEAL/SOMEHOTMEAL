@@ -1,11 +1,9 @@
-<!--## Hi there 👋-->
-
 ## Links
 
 [![Steam](https://img.shields.io/badge/Steam-1b2838?logo=steam)](https://steamcommunity.com/profiles/76561198984182210/)
 <!--[Steam](https://steamcommunity.com/profiles/76561198984182210/)-->
 
-[![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?logo=huggingface&logoColor=white)](https://huggingface.co/SOMEHOTMEAL)
+[![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?logo=huggingface&logoColor=white)](https://huggingface.co/SOMEHOTMEAL)
 <!--[HuggingFace](https://huggingface.co/SOMEHOTMEAL)-->
 
 [![Github](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/SOMEHOTMEAL)
@@ -18,15 +16,15 @@
 
 Do NOT expect seriousness from me.
 
-Yeah IDK what to put here SMH my Head.
+Yeah, IDK what to put here. SMH my head.
 
 ## Current Projects
 
- ​​  ​- ​ [Expanding my Chrome extension HQ.](https://github.com/SOMEHOTMEAL/ChromeEXT)
+ ​​  ​- ​ Expanding my Chrome extension HQ<!--.--> **–** [GitHub](https://github.com/SOMEHOTMEAL/ChromeEXT)
 
- ​​  ​- ​ [Continuing my HF RP model guide.](https://huggingface.co/collections/SOMEHOTMEAL/rp-models)
+ ​​  ​- ​ Continuing my HF RP model guide<!--.--> **–** [Hugging Face](https://huggingface.co/collections/SOMEHOTMEAL/rp-models)
 
- ​​  ​- ​ [Continuing my HF Coding model guide.](https://huggingface.co/collections/SOMEHOTMEAL/coding-models)
+ ​​  ​- ​ Continuing my HF Coding model guide<!--.--> **–** [Hugging Face](https://huggingface.co/collections/SOMEHOTMEAL/coding-models)
 
 
 ## Archived Projects
@@ -48,7 +46,7 @@ Yeah IDK what to put here SMH my Head.
 
 
 
-
+<!--## Hi there 👋-->
 <!--
 **SOMEHOTMEAL/SOMEHOTMEAL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
