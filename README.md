@@ -11,16 +11,29 @@
 [![Github](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/SOMEHOTMEAL)
 <!--[Github](https://github.com/SOMEHOTMEAL)-->
 
-[![Dicord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)](https://discord.com/users/857264933448450098)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)](https://discord.com/users/857264933448450098)
 <!--[Dicord](https://discord.com/users/857264933448450098)-->
 
 ## About Me
 
+Do NOT expect seriousness from me.
+
+Yeah IDK what to put here SMH my Head.
+
 ## Current Projects
+
+1. ​ Expanding my Chrome extension HQ.
+
+2. ​ Continuing my HF RP model guide.
+
+3. ​ Continuing my HF Coding model guide.
+
 
 ## Archived Projects
 
+1. ​ My own LLM, never made it beyond V2 (Retrieval-Based Chatbot).
 
+2. ​ 50+ Python Scripts, not even categorized or hidden.
 
 
 
@@ -49,4 +62,28 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<details>
+<summary>Games</summary>
+
+- War Thunder — 1,400+ hours  
+- Helldivers 2 — 100+ hours  
+- Cyberpunk 2077 — 350+ hours
+- Ultimate Admiral Dreadnoughts — 1000+ hours
+
+</details>
+
+## 🎮 Games
+
+<details>
+<summary>Click to expand</summary>
+
+- War Thunder — 1,400+ hours  
+- Helldivers 2 — 100+ hours  
+- Cyberpunk 2077 — 350+ hours  
+- Ultimate Admiral: Dreadnoughts — 1000+ hours  
+
+</details>
+
+
 -->
