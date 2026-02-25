@@ -26,15 +26,22 @@ Do NOT expect seriousness from me.
 
 Yeah, IDK what to put here. SMH my head.
 
+
+
 ## Current Projects
 
- ​​  ​- ​ Expanding my Chrome extension HQ<!--.--> **–** [GitHub](https://github.com/SOMEHOTMEAL/ChromeEXT)
+ ​​  ​- ​ Expanding my Chrome extension HQ<!--.--> **–** [GitHub](https://github.com/SOMEHOTMEAL/SHM-Chrome-EXT)
 
  ​​  ​- ​ Continuing my HF RP model guide<!--.--> **–** [Hugging Face](https://huggingface.co/collections/SOMEHOTMEAL/rp-models)
 
  ​​  ​- ​ Continuing my HF Coding model guide<!--.--> **–** [Hugging Face](https://huggingface.co/collections/SOMEHOTMEAL/coding-models)
 
+  ​​ ​- ​ releasing and updating my A1111 Wildcards<!--.--> **–** [GitHub](https://github.com/SOMEHOTMEAL/SHM-A1111Wldcrd)
 
+ ​​  ​- ​ Releasing my various python scripts with their functions explained<!--.--> **–** [GitHub](https://github.com/SOMEHOTMEAL/SHM-VariousPythonArchivedScripts)
+ 
+
+ 
 ## Archived Projects
 
  ​​  ​- ​ My own LLM, Canto, never made it beyond V2 (Retrieval-Based Chatbot).
