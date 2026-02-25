@@ -36,9 +36,9 @@ Yeah, IDK what to put here. SMH my head.
 
  ​​  ​- ​ Continuing my HF Coding model guide<!--.--> **–** [Hugging Face](https://huggingface.co/collections/SOMEHOTMEAL/coding-models)
 
-  ​​ ​- ​ releasing and updating my A1111 Wildcards<!--.--> **–** [GitHub](https://github.com/SOMEHOTMEAL/SHM-A1111Wldcrd)
+  ​​ ​- ​ releasing and updating my A1111 Wildcards<!--.--> **–** <!--[GitHub]-->[Coming Soon](https://github.com/SOMEHOTMEAL/SHM-A1111Wldcrd)
 
- ​​  ​- ​ Releasing my various python scripts with their functions explained<!--.--> **–** [GitHub](https://github.com/SOMEHOTMEAL/SHM-VariousPythonArchivedScripts)
+ ​​  ​- ​ Releasing my various python scripts with their functions explained<!--.--> **–** <!--[GitHub]-->[Coming Soon](https://github.com/SOMEHOTMEAL/SHM-VariousPythonArchivedScripts)
  
 
  
