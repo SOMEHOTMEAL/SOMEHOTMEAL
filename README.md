@@ -18,10 +18,11 @@
 
 [![Steam](https://img.shields.io/badge/Steam-1b2838?logo=steam)](https://steamcommunity.com/profiles/76561198984182210/)  [![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?logo=huggingface&logoColor=white)](https://huggingface.co/SOMEHOTMEAL)  [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/SOMEHOTMEAL)  [![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)](https://discord.com/users/857264933448450098)  [![Danbooru](https://img.shields.io/badge/danbooru-ad8965?logo=danbooru&logoColor=white)](https://danbooru.donmai.us/users/1125968)  [![AiBooru](https://img.shields.io/badge/AiBooru-77b818?logo=AiBooru&logoColor=white)](https://aibooru.online/users/66801)  [![JanitorAI](https://img.shields.io/badge/AiBooru-77b818?logo=AiBooru&logoColor=white)]([https://aibooru.online/users/66801](https://janitorai.com/profiles/f0bfdbf7-b949-4bea-9fb1-a5c3599fc119_profile-of-somehotmeal))
 
-![Danbooru](https://img.shields.io/badge/Danbooru-Imageboard-0073ff?style=flat-square&logo=safari&logoColor=white)
-![Danbooru](https://img.shields.io/badge/Danbooru-Online-blue?style=for-the-badge&logo=image)
-
-
+[![Danbooru](https://img.shields.io/badge/Danbooru-Profile-0073ff?style=flat-square)](https://danbooru.donmai.us/users/YOUR_USER_ID)
+[![Danbooru Posts](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fdanbooru.donmai.us%2Fusers%2FYOUR_USER_ID.json&query=%24.post_upload_count&label=Danbooru%20Uploads&color=0073ff&style=flat-square)](https://danbooru.donmai.us/users/YOUR_USER_ID)
+[![aibooru.online](https://img.shields.io/badge/aibooru-online-8a2be2?style=flat-square)](https://aibooru.online)
+[![JanitorAI Profile](https://img.shields.io/badge/JanitorAI-Profile-ff69b4?style=flat-square)](https://janitorai.com/profiles/YOUR_PROFILE_ID)
+[![JanitorAI Character](https://img.shields.io/badge/JanitorAI-My%20Bots-e0115f?style=flat-square)](https://janitorai.com/profiles/YOUR_PROFILE_ID)
 <!--=================-->
 
 ## About Me
